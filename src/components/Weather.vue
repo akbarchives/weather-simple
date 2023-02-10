@@ -19,7 +19,7 @@
                             </div>
                             <div class="col-12 temperature p-5 mt-5">
                                 <div class="row">
-                                    <div class="col-6 d-flex align-items-center">
+                                    <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center">
                                         <h1>
                                             <i style="font-size: 90px; color: white;" class="bi bi-cloud-sun-fill"></i>
                                         </h1>
